@@ -1,32 +1,76 @@
-# 🖐️ Python Hand Mouse
-
-## Bu Proje Yapay Zeka Tarafından Yapılmıştır
-Bu proje, **MediaPipe** ve **OpenCV** kullanarak **el hareketleriyle fareyi kontrol etmenizi** sağlar.  
-Kamera görüntüsünü analiz ederek el pozisyonunu algılar ve:
-
-- 🖱️ İşaret parmağıyla imleci hareket ettirir  
-- 👆 Başparmak–işaret parmağı dokunuşuyla **sol tıklama**  
-- 🤏 Başparmak–orta parmak dokunuşuyla **sağ tıklama**  
-- ✊ Yumruk hareketiyle **aşağı kaydırma (scroll)** işlemi yapar  
+# 🖐 Python Hand Mouse
 
 ---
 
-## 🚀 Özellikler
-- Gerçek zamanlı el takibi (MediaPipe Hands)  
-- Yumuşatılmış fare hareketi (SMOOTHING)  
-- Dokunma tespitiyle sol/sağ tıklama  
-- Yumruk hareketiyle kaydırma  
-- PyInstaller ile `.exe` olarak paketlenebilir  
+> 🧠 **Bu Uygulama Yapay Zeka ile yapılmıştır**  
+> 👤 Geliştirici: [@cemal201138](https://github.com/cemal201138)  
+> 📢 Kullanılabilir ve geliştirilebilir, **ancak kaynak belirtiniz.**
 
 ---
 
-## 🧰 Kullanılan Teknolojiler
-- Python 3.11 (Anaconda ortamı)  
-- OpenCV (`cv2`)  
-- MediaPipe  
-- PyAutoGUI  
-- NumPy
+> ⚠️ **Önceki sürümler yayınlanmayacaktır.**  
+> 🎯 Uygulama tamamen **eğlence amaçlı** geliştirilmiştir.  
 
-## İletişim 
-👤 GitHub: [cemal201138](https://github.com/cemal201138)
-📧 E-posta: evlicemal38@gmail.com
+---
+
+## 💡 Genel Bilgi
+
+**Python Müzik Çalar**, Pushbullet üzerinden kontrol edilebilen bir masaüstü müzik oynatıcısıdır.  
+Müzik çalma, duraklatma, ses seviyesi değiştirme, bilgisayar kilitleme gibi işlemleri uzaktan yönetebilirsiniz.  
+
+---
+
+## 🧭 Uygulamanın Kullanımı
+
+1. Uygulamayı .exe olanı indirin ve çift tıklayın.
+
+---
+
+## ⚙️ Fonksiyonlar
+
+- ✋ Sayfayı Sağ Yumruk İle Aşağı, Sol Yumruk İle Yukarı Kaydırma
+- 🖱️ Fare kontrolü (hareket, tıklama, sürükleme)
+
+---
+
+## 🪄 Özellikler
+
+- Basit Arayüz
+- Faresiz Bilgisayar Kontrolü
+- Kullanım Kolaylığı
+- Kurulum Gerektirmez
+- Tamamen Açık Kaynak
+
+---
+
+## 💬 Sorun Bildirimi
+
+> Uygulamadaki herhangi bir sıkıntıyı **"Issues (Sorunlar)"** bölümüne yazabilirsiniz.  
+> Elimden geldiğince kısa sürede cevaplamaya çalışacağım. 🙌
+
+---
+
+## 📞 İletişim
+
+- 👤 **Geliştirici:** [@cemal201138](https://github.com/cemal201138)  
+- 📧 **E-posta:** [cemal201138@gmail.com](mailto:cemal201138@gmail.com)   
+- 💬 **GitHub:** [github.com/cemal201138](https://github.com/cemal201138)  
+- 🌐 **Proje Sayfası:** [Python_Muzik_Calar](https://github.com/cemal201138/Python_Muzik_Calar)
+
+> Sorularınız, önerileriniz veya hata bildirimleriniz için bana ulaşabilirsiniz. 💬
+
+---
+
+## ⚖️ Lisans ve Kullanım
+
+Bu proje [@cemal201138](https://github.com/cemal201138)'e aittir.  
+Kullanılabilir, geliştirilebilir ve paylaşılabilir — ancak **kaynak belirtilmesi zorunludur.**  
+
+---
+
+## ❤️ Teşekkürler
+
+Bu projeyi kullandığınız ve desteklediğiniz için teşekkürler!  
+
+---
+
