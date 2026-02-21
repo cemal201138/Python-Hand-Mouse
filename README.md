@@ -2,7 +2,8 @@
 
 ---
 
-> 🧠 **Bu Uygulama Yapay Zeka ile yapılmıştır**  
+> 🧠 **Bu Uygulama Yapay Zeka ile yapılmıştır**
+> Yapay Zeka Yardımı İle Yapılmıştır.
 > 👤 Geliştirici: [@cemal201138](https://github.com/cemal201138)  
 > 📢 Kullanılabilir ve geliştirilebilir, **ancak kaynak belirtiniz.**
 
